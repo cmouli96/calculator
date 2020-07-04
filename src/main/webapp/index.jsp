@@ -48,6 +48,10 @@
 		  
 			
 		}
+		else
+		{
+			console.log("not valid operator");
+		}
 	}
 </script>
 </body>
